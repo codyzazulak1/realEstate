@@ -2038,7 +2038,10 @@ footer p {
 /* Medium Devices, Desktops */
 @media only screen and (max-width: 1024px) {
   .brand-logo {
+    position: relative;
     max-width: 200px;
+    margin: auto;
+    margin-bottom: 15px;
   }
 
 
@@ -2168,9 +2171,6 @@ footer p {
 }
 /* Extra Small Devices, Phones */
 @media only screen and (max-width: 480px) {
-  .brand-logo {
-    margin: 100px auto auto auto;
-  }
   #home-wrap {
     padding: 50px 0 100px;
   }
