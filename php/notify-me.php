@@ -4,6 +4,7 @@
 /* Please visit the help file to set correctly this file :) */
 /* ******************************************************** */
 
+
 // Set to "mailchimp" or "file"
 $STORE_MODE = "mailchimp";
 
